@@ -29,7 +29,7 @@
         </ul>
         
         <h2>Book a Free Consultation</h2>
-        <form action="https://formspree.io/f/your-email" method="POST">
+        <form action="https://formspree.io/f/xyzebwdy" method="POST">
             <div class="form-group">
                 <label for="name">Full Name</label>
                 <input type="text" id="name" name="name" required>
